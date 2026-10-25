@@ -7,6 +7,7 @@
 | CardFaceDB | 620 | [cardfacedb-full.json](https://raw.githubusercontent.com/emiya88/monica-card-pack/main/cardfacedb-full.json)（620 张） |
 | CardSkin | 643 | [cardskin-full.json](https://raw.githubusercontent.com/emiya88/monica-card-pack/main/cardskin-full.json)（643 张） |
 | AirCards | 2602 | [aircards-full.json](https://raw.githubusercontent.com/emiya88/monica-card-pack/main/aircards-full.json)（2580 张） |
+| OpenCard DB 可用卡面 | 208 | [opencard-full.json](https://raw.githubusercontent.com/emiya88/monica-card-pack/main/opencard-full.json)（206 张） |
 
 在 Monica「图源订阅 → 卡面」添加所选来源的 JSON 地址；多包时逐个添加。普通网页、CSV 和 ZIP 不是订阅地址。
 
@@ -17,6 +18,7 @@
 - [CardFaceDB 说明与使用范围](source-reports/cardfacedb/README.md)
 - [CardSkin 说明与使用范围](source-reports/cardskin/README.md)
 - [AirCards 说明与使用范围](source-reports/aircards/README.md)
+- [OpenCard DB 可用卡面 说明与使用范围](source-reports/opencard/README.md)
 
 Cardentify 当前全量包未发布：源站对本检索代理禁止抓取，需站方授权或官方完整导出。详情见 [处理状态](source-reports/cardentify/README.md)。
 

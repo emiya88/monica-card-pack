@@ -40,5 +40,21 @@
         "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/aircards-full.json"
       }
     ]
+  },
+  "opencard": {
+    "source": "OpenCard DB 可用卡面",
+    "entries": 208,
+    "source_entries": 548,
+    "images": 206,
+    "snapshot_at_utc": "2026-10-25T09:05:48.385252+00:00",
+    "packs": [
+      {
+        "file": "opencard-full.json",
+        "images": 206,
+        "bytes": 42548,
+        "sha256": "7def51c790ca4fc898607a683291ce19fd669a0312d4b84b44e7e79df426c98c",
+        "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/opencard-full.json"
+      }
+    ]
   }
 }

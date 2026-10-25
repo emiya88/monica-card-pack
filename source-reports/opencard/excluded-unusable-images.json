@@ -1,0 +1,402 @@
+[
+  {
+    "ok": false,
+    "row": {
+      "id": "us-amex-platinum-morgan-stanley",
+      "title": "The Platinum Card® from American Express Exclusively for Morgan Stanley",
+      "issuer": "American Express",
+      "region": "US",
+      "source_page": "https://global.americanexpress.com/card-benefits/view-all/morgan-stanley-platinum-card",
+      "url": "https://apply.americanexpress.com/wp-content/themes/openforum/morgan-stanley/images/chg_plat_metal_morgan.svg",
+      "original_image_url": "https://apply.americanexpress.com/wp-content/themes/openforum/morgan-stanley/images/chg_plat_metal_morgan.svg",
+      "attribution": "© American Express",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "cannot identify image file <_io.BytesIO object at 0x000001B9263F8630>"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-barclays-cashforward",
+      "title": "Barclays CashForward® World Mastercard®",
+      "issuer": "Barclays",
+      "region": "US",
+      "source_page": "https://web.archive.org/web/20170214231009/https://home.barclaycardus.com/cards/barclaycard-cashforward.html",
+      "url": "https://web.archive.org/web/20170930123759im_/https://home.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/OCB_card_rRGB_CashForward_WM_Angled359x246_L.png",
+      "original_image_url": "https://web.archive.org/web/20170930123759im_/https://home.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/OCB_card_rRGB_CashForward_WM_Angled359x246_L.png",
+      "attribution": "© Barclays Bank Delaware",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20170930123759im_/https://home.barclaycardus.com/content/dam/bcuspublic/card-plastic/card-angled/OCB_card_rRGB_CashForward_WM_Angled359x246_L.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E5310>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-barclays-hawaiian-airlines-world-elite",
+      "title": "Hawaiian Airlines® Bank of Hawaii World Elite Mastercard®",
+      "issuer": "Barclays",
+      "region": "US",
+      "source_page": "https://www.boh.com/personal/credit-card",
+      "url": "https://www.boh.com/siteassets/blocks/text--image-side-by-side/credit-card/credit-card-hal-consumer-2025-ta-864x864.png",
+      "original_image_url": "https://www.boh.com/siteassets/blocks/text--image-side-by-side/credit-card/credit-card-hal-consumer-2025-ta-864x864.png",
+      "attribution": "© Barclays Bank Delaware",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "403 Client Error: Forbidden for url: https://www.boh.com/siteassets/blocks/text--image-side-by-side/credit-card/credit-card-hal-consumer-2025-ta-864x864.png"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-capital-one-premier-dining-rewards",
+      "title": "Capital One Premier Dining Rewards",
+      "issuer": "Capital One",
+      "region": "US",
+      "source_page": "https://www.capitalone.com/credit-cards/",
+      "url": "https://web.archive.org/web/20170930115820im_/https://www.capitalone.com/assets/credit-cards/img/4yKPqhJJAIW8gYAyysoqEO/7c6e9a90ddfff65e5bae4d2ac96c09f3/www-blue-steel-mc-worldelite-240x151.png",
+      "original_image_url": "https://web.archive.org/web/20170930115820im_/https://www.capitalone.com/assets/credit-cards/img/4yKPqhJJAIW8gYAyysoqEO/7c6e9a90ddfff65e5bae4d2ac96c09f3/www-blue-steel-mc-worldelite-240x151.png",
+      "attribution": "© Capital One",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20170930115820im_/https://www.capitalone.com/assets/credit-cards/img/4yKPqhJJAIW8gYAyysoqEO/7c6e9a90ddfff65e5bae4d2ac96c09f3/www-blue-steel-mc-worldelite-240x151.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E6AD0>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-capital-one-spark-miles-for-business",
+      "title": "Capital One Spark Miles for Business",
+      "issuer": "Capital One",
+      "region": "US",
+      "source_page": "https://www.capitalone.com/about/newsroom/venture-business-rebrand/",
+      "url": "https://web.archive.org/web/20181028015258im_/https://www.capitalone.com/assets/credit-cards/img/sparkmiles-card-art.png",
+      "original_image_url": "https://web.archive.org/web/20181028015258im_/https://www.capitalone.com/assets/credit-cards/img/sparkmiles-card-art.png",
+      "attribution": "© Capital One",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20181028015258im_/https://www.capitalone.com/assets/credit-cards/img/sparkmiles-card-art.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E6E90>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-capital-one-spark-miles-select-for-business",
+      "title": "Capital One Spark Miles Select for Business",
+      "issuer": "Capital One",
+      "region": "US",
+      "source_page": "https://www.capitalone.com/about/newsroom/venture-business-rebrand/",
+      "url": "https://web.archive.org/web/20191204210231im_/https://www.capitalone.com/credit-cards/assets/img/Spark-Miles-Select.png",
+      "original_image_url": "https://web.archive.org/web/20191204210231im_/https://www.capitalone.com/credit-cards/assets/img/Spark-Miles-Select.png",
+      "attribution": "© Capital One",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20191204210231im_/https://www.capitalone.com/credit-cards/assets/img/Spark-Miles-Select.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E6FD0>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-chase-fairmont",
+      "title": "Fairmont Credit Card",
+      "issuer": "Chase",
+      "region": "US",
+      "source_page": "https://web.archive.org/web/20160809154338/https://creditcards.chase.com/a1/fairmont/LP",
+      "url": "https://web.archive.org/web/20160809000636im_/https://creditcards.chase.com/T120-001/1200001/images/card_art.png",
+      "original_image_url": "https://web.archive.org/web/20160809000636im_/https://creditcards.chase.com/T120-001/1200001/images/card_art.png",
+      "attribution": "© JPMorgan Chase & Co.",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20160809000636im_/https://creditcards.chase.com/T120-001/1200001/images/card_art.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822C190>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-chase-ihg-rewards-club-select",
+      "title": "IHG Rewards Club Select Credit Card",
+      "issuer": "Chase",
+      "region": "US",
+      "source_page": "https://creditcards.chase.com/",
+      "url": "https://web.archive.org/web/20180211084048im_/https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/ihg_card.png",
+      "original_image_url": "https://web.archive.org/web/20180211084048im_/https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/ihg_card.png",
+      "attribution": "© Chase",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20180211084048im_/https://creditcards.chase.com/R-Marketplace/1110008/images/cardart/ihg_card.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822C410>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-chase-ritz-carlton-rewards",
+      "title": "Ritz-Carlton Rewards® Credit Card",
+      "issuer": "Chase",
+      "region": "US",
+      "source_page": "https://web.archive.org/web/20160531161213/https://creditcards.chase.com/a1/ritzcarlton/aep2CN",
+      "url": "https://web.archive.org/web/20160806012749im_/https://creditcards.chase.com/T110-039/1100119/images/card_art_main_home_030216.png",
+      "original_image_url": "https://web.archive.org/web/20160806012749im_/https://creditcards.chase.com/T110-039/1100119/images/card_art_main_home_030216.png",
+      "attribution": "© JPMorgan Chase & Co.",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20160806012749im_/https://creditcards.chase.com/T110-039/1100119/images/card_art_main_home_030216.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822C690>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-chase-united-mileageplus-explorer-business",
+      "title": "United MileagePlus Explorer Business Card",
+      "issuer": "Chase",
+      "region": "US",
+      "source_page": "https://creditcards.chase.com/",
+      "url": "https://web.archive.org/web/20190428174505im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_biz_card.png",
+      "original_image_url": "https://web.archive.org/web/20190428174505im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_biz_card.png",
+      "attribution": "© Chase",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20190428174505im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_biz_card.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822D810>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-chase-united-travelbank",
+      "title": "United TravelBank Card",
+      "issuer": "Chase",
+      "region": "US",
+      "source_page": "https://creditcards.chase.com/",
+      "url": "https://web.archive.org/web/20190428082310im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_travelbank_card.png",
+      "original_image_url": "https://web.archive.org/web/20190428082310im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_travelbank_card.png",
+      "attribution": "© Chase",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20190428082310im_/https://creditcards.chase.com/K-Marketplace/images/cardart/united_travelbank_card.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822D950>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-penfed-gold-visa",
+      "title": "PenFed Gold Visa® Card",
+      "issuer": "PenFed Credit Union",
+      "region": "US",
+      "source_page": "https://www.penfed.org/credit-cards/gold-visa",
+      "url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/gold-card-sm.webp",
+      "original_image_url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/gold-card-sm.webp",
+      "attribution": "© PenFed Credit Union",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='www.penfed.org', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-penfed-pathfinder",
+      "title": "Pathfinder",
+      "issuer": "PenFed",
+      "region": "US",
+      "source_page": "https://www.penfed.org/credit-cards/pathfinder-rewards",
+      "url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/pathfinder-rewards.webp",
+      "original_image_url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/pathfinder-rewards.webp",
+      "attribution": "© PenFed",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='www.penfed.org', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-penfed-platinum-rewards",
+      "title": "Platinum Rewards",
+      "issuer": "PenFed",
+      "region": "US",
+      "source_page": "https://www.penfed.org/credit-cards/platinum-rewards-visa",
+      "url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/platinum-rewards.webp",
+      "original_image_url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/platinum-rewards.webp",
+      "attribution": "© PenFed",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='www.penfed.org', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-penfed-power-cash-rewards",
+      "title": "Power Cash Rewards",
+      "issuer": "PenFed",
+      "region": "US",
+      "source_page": "https://www.penfed.org/credit-cards/power-cash-rewards-visa",
+      "url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/power-cash-rewards.webp",
+      "original_image_url": "https://www.penfed.org/content/dam/penfed/en/products/credit-cards/cards/power-cash-rewards.webp",
+      "attribution": "© PenFed",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='www.penfed.org', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-td-aeroplan-visa-signature",
+      "title": "TD Aeroplan Visa Signature Credit Card",
+      "issuer": "TD Bank",
+      "region": "US",
+      "source_page": "https://web.archive.org/web/20181213224405/https://www.td.com/us/en/personal-banking/credit-cards/aeroplan-credit-card/",
+      "url": "https://web.archive.org/web/20181213224405im_/https://www.td.com/us/en/personal-banking/images/aeroplan_1-10_tcm371-259511.jpg",
+      "original_image_url": "https://web.archive.org/web/20181213224405im_/https://www.td.com/us/en/personal-banking/images/aeroplan_1-10_tcm371-259511.jpg",
+      "attribution": "© TD Bank",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20181213224405im_/https://www.td.com/us/en/personal-banking/images/aeroplan_1-10_tcm371-259511.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E7890>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-td-ameritrade-client-rewards",
+      "title": "TD Ameritrade Client Rewards Card",
+      "issuer": "TD Bank",
+      "region": "US",
+      "source_page": "https://tdaclientrewards.tdbank.com/products/TDA/pdfs/tda-faq.pdf",
+      "url": "https://web.archive.org/web/20150919162659im_/https://tdaclientrewards.tdbank.com/DATAHELIX/TD/MEMBRE_GROUPE/4_cardArt.jpg",
+      "original_image_url": "https://web.archive.org/web/20150919162659im_/https://tdaclientrewards.tdbank.com/DATAHELIX/TD/MEMBRE_GROUPE/4_cardArt.jpg",
+      "attribution": "© TD Bank",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20150919162659im_/https://tdaclientrewards.tdbank.com/DATAHELIX/TD/MEMBRE_GROUPE/4_cardArt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E6850>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-us-bank-club-carlson-premier-visa-signature",
+      "title": "Club Carlson Premier Visa Signature",
+      "issuer": "U.S. Bank",
+      "region": "US",
+      "source_page": "https://www.usbank.com/credit-cards/",
+      "url": "https://web.archive.org/web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png",
+      "original_image_url": "https://web.archive.org/web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png",
+      "attribution": "© U.S. Bank",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E5810>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-us-bank-club-carlson-rewards-visa-signature",
+      "title": "Club Carlson Rewards Visa Signature",
+      "issuer": "U.S. Bank",
+      "region": "US",
+      "source_page": "https://www.usbank.com/credit-cards/",
+      "url": "https://web.archive.org/web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png",
+      "original_image_url": "https://web.archive.org/web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png",
+      "attribution": "© U.S. Bank",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20150906140545im_/https://www.usbank.com/images/credit-card/222x139-ccsig.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B9271E5590>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-active-cash",
+      "title": "Wells Fargo Active Cash® Credit Card",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://creditcards.wellsfargo.com/active-cash-credit-card/",
+      "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-7-26_v2/images/Products/ActiveCash/WF_ActiveCash_VS_Collateral_Front_RGB.png",
+      "original_image_url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-7-26_v2/images/Products/ActiveCash/WF_ActiveCash_VS_Collateral_Front_RGB.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "406 Client Error: Not Acceptable for url: https://creditcards.wellsfargo.com/404.html"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-autograph-journey",
+      "title": "Wells Fargo Autograph Journey℠ Card",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card",
+      "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-7-26_v2/images/Products/AutographJourney/WF_Autograph_Journey_Card_d.png",
+      "original_image_url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-7-26_v2/images/Products/AutographJourney/WF_Autograph_Journey_Card_d.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "406 Client Error: Not Acceptable for url: https://creditcards.wellsfargo.com/404.html"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-cash-back-college",
+      "title": "Wells Fargo Cash Back College Card",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://www.wellsfargo.com/credit-cards/",
+      "url": "https://web.archive.org/web/20180104021433im_/https://www04.wellsfargomedia.com/assets/images/photography/product/290x150/cash_back_college_visa_card.png",
+      "original_image_url": "https://web.archive.org/web/20180104021433im_/https://www04.wellsfargomedia.com/assets/images/photography/product/290x150/cash_back_college_visa_card.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20180104021433im_/https://www04.wellsfargomedia.com/assets/images/photography/product/290x150/cash_back_college_visa_card.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822E490>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-choice-privileges",
+      "title": "Wells Fargo Choice Privileges Mastercard",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-21-26/images/Products/ChoicePrivileges/WF_Choice_NoFee_Card_LTO.png",
+      "original_image_url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-21-26/images/Products/ChoicePrivileges/WF_Choice_NoFee_Card_LTO.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "406 Client Error: Not Acceptable for url: https://creditcards.wellsfargo.com/404.html"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-choice-privileges-select",
+      "title": "Wells Fargo Choice Privileges Select Mastercard",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://creditcards.wellsfargo.com/wells-fargo-choice-privileges-credit-cards",
+      "url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-21-26/images/Products/ChoicePrivilegesSelect/WF_Choice_Fee_Card.png",
+      "original_image_url": "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v7-21-26/images/Products/ChoicePrivilegesSelect/WF_Choice_Fee_Card.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "406 Client Error: Not Acceptable for url: https://creditcards.wellsfargo.com/404.html"
+  },
+  {
+    "ok": false,
+    "row": {
+      "id": "us-wells-fargo-propel",
+      "title": "Wells Fargo Propel American Express® Card",
+      "issuer": "Wells Fargo",
+      "region": "US",
+      "source_page": "https://www.wellsfargo.com/credit-cards/",
+      "url": "https://web.archive.org/web/20180104021430im_/https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card.png",
+      "original_image_url": "https://web.archive.org/web/20180104021430im_/https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card.png",
+      "attribution": "© Wells Fargo",
+      "art_grade": "issuer",
+      "database_source": "https://github.com/thedavidweng/opencard-db/blob/main/exports/cards-all.json"
+    },
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20180104021430im_/https://www01.wellsfargomedia.com/assets/images/photography/product/credit-cards/propel_american_express_card.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001B92822DE50>, 'Connection to web.archive.org timed out. (connect timeout=12)'))"
+  }
+]

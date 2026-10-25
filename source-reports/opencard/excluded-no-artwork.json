@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "ca-amazon-ca-rewards-mastercard",
+    "title": "Amazon.ca Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-aeroplan",
+    "title": "American Express Aeroplan Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-aeroplan-business-reserve",
+    "title": "American Express Aeroplan Business Reserve Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-aeroplan-reserve",
+    "title": "American Express Aeroplan Reserve Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-business-gold-rewards",
+    "title": "American Express Business Gold Rewards Card (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-business-platinum",
+    "title": "Business Platinum Card from American Express (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-essential",
+    "title": "American Express Essential Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-gold-rewards",
+    "title": "American Express Gold Rewards Card (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-green",
+    "title": "American Express Green Card (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-marriott-bonvoy",
+    "title": "Marriott Bonvoy American Express Card (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-marriott-bonvoy-business",
+    "title": "Marriott Bonvoy Business American Express Card (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-platinum",
+    "title": "The Platinum Card from American Express (Canada)",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-simplycash",
+    "title": "SimplyCash Card from American Express",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-amex-simplycash-preferred",
+    "title": "SimplyCash Preferred Card from American Express",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-ascend-world-elite-business-mastercard",
+    "title": "BMO Ascend World Elite Business Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-ascend-world-elite-mastercard",
+    "title": "BMO Ascend World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-cashback-business-mastercard",
+    "title": "BMO CashBack Business Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-cashback-mastercard",
+    "title": "BMO CashBack Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-cashback-world-elite-mastercard",
+    "title": "BMO CashBack World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-eclipse-rise-visa",
+    "title": "BMO eclipse rise Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-eclipse-visa-infinite",
+    "title": "BMO eclipse Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-eclipse-visa-infinite-privilege",
+    "title": "BMO eclipse Visa Infinite Privilege Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-viporter-mastercard",
+    "title": "BMO VIPorter Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-bmo-viporter-world-elite-mastercard",
+    "title": "BMO VIPorter World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-brim-air-france-klm-world-elite-mastercard",
+    "title": "Air France KLM World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-brim-mastercard",
+    "title": "Brim Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-brim-world-elite-mastercard",
+    "title": "Brim World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-capital-one-guaranteed-mastercard",
+    "title": "Capital One Guaranteed Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-capital-one-quicksilver-world-elite-mastercard",
+    "title": "Capital One Quicksilver World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-capital-one-quicksilver-world-mastercard",
+    "title": "Capital One Quicksilver World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-capital-one-smart-rewards-mastercard",
+    "title": "Capital One Smart Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cathay-world-elite-mastercard",
+    "title": "Cathay World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aeroplan-visa",
+    "title": "CIBC Aeroplan Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aeroplan-visa-business",
+    "title": "CIBC Aeroplan Visa Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aeroplan-visa-infinite",
+    "title": "CIBC Aeroplan Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aeroplan-visa-infinite-privilege",
+    "title": "CIBC Aeroplan Visa Infinite Privilege Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aeroplan-visa-students",
+    "title": "CIBC Aeroplan Visa Card for Students",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aventura-visa-infinite",
+    "title": "CIBC Aventura Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-aventura-visa-infinite-privilege",
+    "title": "CIBC Aventura Visa Infinite Privilege Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-costco-business-mastercard",
+    "title": "CIBC Costco Business Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-costco-mastercard",
+    "title": "CIBC Costco Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-costco-world-mastercard",
+    "title": "CIBC Costco World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-dividend-platinum-visa",
+    "title": "CIBC Dividend Platinum Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-dividend-visa",
+    "title": "CIBC Dividend Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-cibc-dividend-visa-infinite",
+    "title": "CIBC Dividend Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-manulife-bank-visa-infinite",
+    "title": "Manulife Bank Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-manulife-bank-visa-platinum",
+    "title": "Manulife Bank Visa Platinum Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-mbna-rewards-world-elite-mastercard",
+    "title": "MBNA Rewards World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-more-rewards-rbc-visa",
+    "title": "More Rewards RBC Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-national-bank-world-elite-mastercard",
+    "title": "National Bank World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-neo-mastercard",
+    "title": "Neo Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-neo-united-mileageplus-world-elite-mastercard",
+    "title": "United MileagePlus Neo World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-neo-world-elite-mastercard",
+    "title": "Neo World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-pc-insiders-world-elite-mastercard",
+    "title": "PC Insiders World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-pc-mastercard",
+    "title": "PC Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-pc-world-elite-mastercard",
+    "title": "PC World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-pc-world-mastercard",
+    "title": "PC World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-avion-visa-business",
+    "title": "RBC Avion Visa Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-avion-visa-infinite",
+    "title": "RBC Avion Visa Infinite",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-avion-visa-infinite-business",
+    "title": "RBC Avion Visa Infinite Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-avion-visa-infinite-privilege",
+    "title": "RBC Avion Visa Infinite Privilege",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-avion-visa-platinum",
+    "title": "RBC Avion Visa Platinum",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-british-airways-visa-infinite",
+    "title": "RBC British Airways Visa Infinite",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-business-cash-back-mastercard",
+    "title": "RBC Business Cash Back Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-cash-back-mastercard",
+    "title": "RBC Cash Back Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-cash-back-preferred-world-elite-mastercard",
+    "title": "RBC Cash Back Preferred World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-ion-plus-visa",
+    "title": "RBC ION+ Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-ion-visa",
+    "title": "RBC ION Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-visa-business",
+    "title": "RBC Visa Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rbc-visa-creditline-small-business",
+    "title": "RBC Visa CreditLine for Small Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rogers-red-mastercard",
+    "title": "Rogers Red Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-rogers-red-world-elite-mastercard",
+    "title": "Rogers Red World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotia-momentum-mastercard",
+    "title": "Scotia Momentum Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotia-momentum-no-fee-visa",
+    "title": "Scotia Momentum No-Fee Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotia-momentum-visa",
+    "title": "Scotia Momentum Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotia-momentum-visa-infinite",
+    "title": "Scotia Momentum Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotiabank-amex",
+    "title": "Scotiabank American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotiabank-gold-amex",
+    "title": "Scotiabank Gold American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotiabank-passport-visa-infinite-business",
+    "title": "Scotiabank Passport Visa Infinite Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotiabank-platinum-amex",
+    "title": "Scotiabank Platinum American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-scotiabank-scene-plus-visa",
+    "title": "Scotiabank Scene+ Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-simplii-financial-cash-back-visa",
+    "title": "Simplii Financial Cash Back Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-tangerine-money-back-credit-card",
+    "title": "Tangerine Money-Back Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-tangerine-money-back-world-mastercard",
+    "title": "Tangerine Money-Back World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-aeroplan-visa-business",
+    "title": "TD Aeroplan Visa Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-aeroplan-visa-infinite-privilege",
+    "title": "TD Aeroplan Visa Infinite Privilege Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-aeroplan-visa-platinum",
+    "title": "TD Aeroplan Visa Platinum Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-business-cash-back-visa",
+    "title": "TD Business Cash Back Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-business-select-rate-visa",
+    "title": "TD Business Select Rate Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-business-travel-visa",
+    "title": "TD Business Travel Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-cash-back-visa",
+    "title": "TD Cash Back Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-cash-back-visa-infinite",
+    "title": "TD Cash Back Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-first-class-travel-visa-infinite",
+    "title": "TD First Class Travel Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-platinum-travel-visa",
+    "title": "TD Platinum Travel Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-rewards-visa",
+    "title": "TD Rewards Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-td-us-dollar-visa",
+    "title": "TD U.S. Dollar Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-triangle-mastercard",
+    "title": "Triangle Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-triangle-world-elite-mastercard",
+    "title": "Triangle World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-vancity-enviro-visa-classic",
+    "title": "Vancity enviro Visa Classic Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-vancity-enviro-visa-gold",
+    "title": "Vancity enviro Visa Gold Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-vancity-enviro-visa-infinite",
+    "title": "Vancity enviro Visa Infinite Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-vancity-enviro-visa-infinite-privilege",
+    "title": "Vancity enviro Visa Infinite Privilege Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-wealthsimple-visa-infinite-plus",
+    "title": "Wealthsimple Visa Infinite+ Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-wealthsimple-visa-infinite-privilege",
+    "title": "Wealthsimple Visa Infinite Privilege Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-westjet-rbc-mastercard",
+    "title": "WestJet RBC Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-westjet-rbc-world-elite-mastercard",
+    "title": "WestJet RBC World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "ca-westjet-rbc-world-elite-mastercard-business",
+    "title": "WestJet RBC World Elite Mastercard for Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "cn-ccb-unionpay-diamond",
+    "title": "建设银行银联钻石卡",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "cn-cmb-classic-platinum",
+    "title": "招商银行经典白金卡",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "cn-icbc-amex-platinum",
+    "title": "工商银行牡丹运通白金卡",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-affinity-fcu-business-first-visa",
+    "title": "Affinity Business First Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-affinity-fcu-cash-rewards-visa-signature",
+    "title": "Affinity FCU Cash Rewards Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-affinity-fcu-premium-visa",
+    "title": "Affinity FCU Premium Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-affinity-fcu-pure-rewards-visa",
+    "title": "Affinity FCU Pure Rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-affinity-fcu-secured-visa",
+    "title": "Affinity FCU Secured Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-alliant-visa-platinum",
+    "title": "Alliant Visa Platinum Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-alliant-visa-signature-cashback",
+    "title": "Alliant Visa Signature Cashback Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-amex-corporate-platinum",
+    "title": "American Express Corporate Platinum Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-amex-everyday",
+    "title": "Amex EveryDay Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-amex-graphite-business-cash-unlimited",
+    "title": "American Express Graphite Business Cash Unlimited Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-amex-premier-rewards-gold",
+    "title": "American Express Premier Rewards Gold Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-amex-rakuten",
+    "title": "Rakuten American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-aod-fcu-share-secured-visa-platinum",
+    "title": "AOD FCU Share Secured Visa Platinum",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-aod-fcu-visa-platinum",
+    "title": "AOD FCU Visa Platinum",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-aod-fcu-visa-signature",
+    "title": "AOD FCU Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-aven-home-equity-visa",
+    "title": "Aven Home Equity Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-aven-rewards-visa",
+    "title": "Aven Rewards Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bank-of-america-alaska-airlines-visa-platinum-plus",
+    "title": "Alaska Airlines Visa Platinum Plus",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bank-of-america-bankamericard",
+    "title": "BankAmericard Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bank-of-america-free-spirit",
+    "title": "Free Spirit® Travel Mastercard®",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bank-of-america-nea-ratesmart",
+    "title": "NEA RateSmart Mastercard Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bank-of-america-susan-g-komen-customized-cash-rewards",
+    "title": "Susan G. Komen Customized Cash Rewards Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-arrival",
+    "title": "Barclays Arrival® World Mastercard®",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-athleta-encore-mastercard",
+    "title": "Athleta Encore Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-banana-republic-encore-mastercard",
+    "title": "Banana Republic Encore Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-frontier-business",
+    "title": "Frontier Airlines Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-gap-encore-mastercard",
+    "title": "Gap Encore Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-gm-rewards-mastercard",
+    "title": "GM Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-hawaiian-airlines-world-elite-business",
+    "title": "Hawaiian Airlines® World Elite Business Mastercard®",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-old-navy-encore-mastercard",
+    "title": "Old Navy Encore Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-barclays-wyndham-rewards-earner-premier",
+    "title": "Wyndham Rewards Earner Premier Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-becu-cash-back-visa",
+    "title": "BECU Cash Back Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-becu-low-rate-visa",
+    "title": "BECU Low Rate Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bh-payboo-credit-card",
+    "title": "B&H Payboo Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-boost-secured",
+    "title": "BMO Boost Secured Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-cash-back",
+    "title": "BMO Cash Back Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-escape",
+    "title": "BMO Escape Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-platinum",
+    "title": "BMO Platinum Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-platinum-rewards",
+    "title": "BMO Platinum Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-bmo-premium-rewards",
+    "title": "BMO Premium Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-booking-com-genius-rewards-visa-signature",
+    "title": "Booking.com Genius Rewards Visa Signature Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-key-rewards-visa",
+    "title": "Key Rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-platinum",
+    "title": "Platinum Mastercard from Capital One",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-quicksilverone",
+    "title": "QuicksilverOne Rewards",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-rei-co-op-mastercard",
+    "title": "REI Co-op Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-savorone",
+    "title": "SavorOne Rewards",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-t-mobile-visa",
+    "title": "T-Mobile Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-capital-one-ventureone-business",
+    "title": "VentureOne Business",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-cb2-visa-signature",
+    "title": "CB2 Visa Signature Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-cfna-firestone-credit-card",
+    "title": "Firestone Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-cfna-firestone-mastercard",
+    "title": "Firestone Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-amazon-visa",
+    "title": "Amazon Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-disney-inspire",
+    "title": "Disney Inspire Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-doordash-rewards-mastercard",
+    "title": "DoorDash Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-ihg-premier-select",
+    "title": "IHG One Rewards Premier Select Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-instacart-mastercard",
+    "title": "Instacart Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-chase-slate-edge",
+    "title": "Slate Edge Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-costco-anywhere-visa-business",
+    "title": "Costco Anywhere Visa Business Card by Citi",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-home-depot-consumer",
+    "title": "The Home Depot Consumer Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-home-depot-pro-xtra",
+    "title": "The Home Depot Pro Xtra Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-macys-american-express",
+    "title": "Macy's American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-macys-credit-card",
+    "title": "Macy's Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-my-best-buy-credit-card",
+    "title": "My Best Buy Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-my-best-buy-visa",
+    "title": "My Best Buy Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-strata",
+    "title": "Citi Strata Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citi-thankyou-premier",
+    "title": "Citi ThankYou Premier® Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citizens-amp",
+    "title": "Citizens Amp Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citizens-spring",
+    "title": "Citizens Spring World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citizens-summit",
+    "title": "Citizens Summit World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-citizens-summit-reserve",
+    "title": "Citizens Summit Reserve World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-city-national-bank-visa-crystal-commercial",
+    "title": "City National Bank Visa Crystal Commercial Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-coinbase-one-card",
+    "title": "Coinbase One Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-aaa-daily-advantage",
+    "title": "AAA Daily Advantage Visa Signature® Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-aaa-travel-advantage",
+    "title": "AAA Travel Advantage Visa Signature Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-bread-cashback-amex",
+    "title": "Bread Cashback American Express Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-bread-rewards-amex",
+    "title": "Bread Rewards American Express Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-nfl-extra-points",
+    "title": "NFL Extra Points Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-virgin-america-premium-visa-signature",
+    "title": "Virgin America Premium Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-comenity-virgin-america-visa-signature",
+    "title": "Virgin America Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-crate-and-barrel-visa-signature",
+    "title": "Crate & Barrel Visa Signature Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-amex-rebuilding-credit",
+    "title": "Credit One Bank American Express Card for Rebuilding Credit",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-omni-rewards-amex",
+    "title": "Credit One Bank Omni Rewards American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-platinum-rewards-visa-no-annual-fee",
+    "title": "Credit One Bank Platinum Rewards Visa with No Annual Fee",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-platinum-visa",
+    "title": "Credit One Bank Platinum Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-platinum-visa-rebuilding-credit",
+    "title": "Credit One Bank Platinum Visa for Rebuilding Credit",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-platinum-x5-visa-signature",
+    "title": "Credit One Bank Platinum X5 Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-premier-amex",
+    "title": "Credit One Bank Premier American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-secured",
+    "title": "Credit One Bank Secured Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-vegas-golden-knights-visa",
+    "title": "Credit One Bank Vegas Golden Knights Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-credit-one-bank-wander-amex",
+    "title": "Credit One Bank Wander American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-cross-river-bank-upgrade-onecard-essentials",
+    "title": "Upgrade OneCard Essentials",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-current-build-visa",
+    "title": "Current Build Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-discover-it-nhl",
+    "title": "NHL Discover it Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-elan-fidelity-rewards-visa-signature",
+    "title": "Fidelity Rewards Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fetch-american-express",
+    "title": "Fetch American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fifth-third-1-67-cash-back",
+    "title": "Fifth Third 1.67% Cash/Back Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fifth-third-preferred-cash-back",
+    "title": "Fifth Third Preferred Cash/Back Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fifth-third-secured",
+    "title": "Fifth Third Secured Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-first-ana-card-usa-plus",
+    "title": "ANA CARD U.S.A. Plus",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-first-tech-choice-rewards-world-mastercard",
+    "title": "First Tech Choice Rewards World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-best-western-rewards",
+    "title": "Best Western Rewards",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-best-western-rewards-premium",
+    "title": "Best Western Rewards Premium",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-bp-rewards-visa",
+    "title": "bp rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-ducks-unlimited-rewards",
+    "title": "Ducks Unlimited Rewards Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-evergreen",
+    "title": "FNBO Evergreen Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-fnbo-evergreen-business-edition",
+    "title": "FNBO Evergreen Business Edition Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-harvard-alumni-world-mastercard",
+    "title": "Harvard Alumni World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-harvard-fcu-platinum-mastercard",
+    "title": "Harvard FCU Platinum Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-harvard-fcu-platinum-rewards-mastercard",
+    "title": "Harvard FCU Platinum Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-harvard-fcu-platinum-rewards-plus-mastercard",
+    "title": "Harvard FCU Platinum Rewards+ Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-icbc-us-preferred-unionpay-gold",
+    "title": "ICBC Preferred UnionPay Gold Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-icbc-us-preferred-visa",
+    "title": "ICBC Preferred Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-icbc-us-premier-unionpay-platinum",
+    "title": "ICBC Premier UnionPay Platinum Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-icbc-us-premier-visa-signature",
+    "title": "ICBC Premier Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-jal-usa-card",
+    "title": "JAL USA Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-kroger-rewards-world-elite-mastercard",
+    "title": "Kroger Family of Companies Rewards World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-mercury-io-mastercard",
+    "title": "Mercury IO Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-merrick-bank-ollo-everyday-rewards",
+    "title": "Ollo Everyday Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-merrick-bank-ollo-select-rewards",
+    "title": "Ollo Select Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-cashrewards",
+    "title": "Navy Federal cashRewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-cashrewards-plus",
+    "title": "Navy Federal cashRewards Plus Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-cashrewards-secured",
+    "title": "Navy Federal cashRewards Secured Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-flagship-premier-visa-signature",
+    "title": "Navy Federal Flagship Premier Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-go-biz-rewards-mastercard",
+    "title": "Navy Federal GO BIZ Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-go-biz-rewards-visa",
+    "title": "Navy Federal GO BIZ Rewards Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-go-rewards",
+    "title": "Navy Federal GO REWARDS Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-more-rewards-amex",
+    "title": "Navy Federal More Rewards American Express Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-navy-federal-platinum",
+    "title": "Navy Federal Platinum Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-nibbles-rewards-world-mastercard",
+    "title": "Nibbles Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-onepay-builder-card",
+    "title": "OnePay Builder Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-opensky-launch-secured-visa",
+    "title": "opensky Launch Secured Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-opensky-plus-secured-visa",
+    "title": "opensky Plus Secured Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-opensky-secured-visa",
+    "title": "opensky Secured Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-pnc-cash-rewards-visa",
+    "title": "PNC Cash Rewards Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-pnc-cash-unlimited-visa",
+    "title": "PNC Cash Unlimited Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-regions-cash-rewards-visa-signature",
+    "title": "Regions Cash Rewards Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-revolut-secured-mastercard",
+    "title": "Revolut Secured Mastercard Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-robinhood-gold-card",
+    "title": "Robinhood Gold Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-shop-your-way-5321-visa",
+    "title": "Shop Your Way 5321 Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-sofi-everyday-cash-rewards",
+    "title": "SoFi Everyday Cash Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-sofi-smart-card",
+    "title": "SoFi Smart Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-sofi-unlimited-2",
+    "title": "SoFi Unlimited 2% Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-stanford-fcu-tech-card-visa-signature",
+    "title": "Stanford FCU Tech Card Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-step-visa-card",
+    "title": "Step Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-car-care-credit-card",
+    "title": "Synchrony Car Care Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-carecredit-credit-card",
+    "title": "CareCredit Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-dicks-credit-card",
+    "title": "DICK'S Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-dicks-mastercard",
+    "title": "DICK'S Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-floor-decor-credit-card",
+    "title": "Floor & Decor Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-floor-decor-pro-premier",
+    "title": "Floor & Decor PRO Premier Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-harbor-freight-credit-card",
+    "title": "Harbor Freight Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-home-credit-card",
+    "title": "Synchrony HOME Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-jcpenney-credit-card",
+    "title": "JCPenney Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-jcpenney-mastercard",
+    "title": "JCPenney Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-mylowes-rewards-credit-card",
+    "title": "MyLowe's Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-mywalgreens-credit-card",
+    "title": "myWalgreens Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-mywalgreens-mastercard",
+    "title": "myWalgreens Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-paypal-cashback-mastercard",
+    "title": "PayPal Cashback Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-premier-world-mastercard",
+    "title": "Synchrony Premier World Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-sams-club-mastercard",
+    "title": "Sam's Club Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-sport-credit-card",
+    "title": "Synchrony Sport Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-tjx-rewards-credit-card",
+    "title": "TJX Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-tjx-rewards-platinum-mastercard",
+    "title": "TJX Rewards Platinum Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-venmo-credit-card",
+    "title": "Venmo Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-synchrony-walmart-onepay-cashrewards",
+    "title": "Walmart OnePay CashRewards",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-td-double-up",
+    "title": "TD Double Up Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-td-target-circle-credit",
+    "title": "Target Circle Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-td-target-mastercard",
+    "title": "Target Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-truist-enjoy-beyond",
+    "title": "Truist Enjoy Beyond Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-truist-enjoy-cash",
+    "title": "Truist Enjoy Cash Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-truist-enjoy-travel",
+    "title": "Truist Enjoy Travel Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-truist-future",
+    "title": "Truist Future Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ubs-cash-rewards-visa-business",
+    "title": "UBS Cash Rewards Visa Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ubs-visa-infinite",
+    "title": "UBS Visa Infinite Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ubs-visa-infinite-business",
+    "title": "UBS Visa Infinite Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ubs-visa-signature",
+    "title": "UBS Visa Signature Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ubs-visa-signature-business",
+    "title": "UBS Visa Signature Business Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ulta-beauty-rewards-credit-card",
+    "title": "Ulta Beauty Rewards Credit Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-ulta-beauty-rewards-mastercard",
+    "title": "Ulta Beauty Rewards Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-aaa-cashback-visa-signature",
+    "title": "AAA Cashback Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-amazon-business-card",
+    "title": "Amazon Business World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-business-essentials",
+    "title": "U.S. Bank Business Essentials Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-business-essentials-plus",
+    "title": "U.S. Bank Business Essentials Plus Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-business-shield",
+    "title": "U.S. Bank Business Shield Visa Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-club-carlson-business-rewards-visa",
+    "title": "Club Carlson Business Rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-club-carlson-platinum-rewards-visa",
+    "title": "Club Carlson Platinum Rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-club-carlson-rewards-visa",
+    "title": "Club Carlson Rewards Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-edward-jones-business",
+    "title": "Edward Jones Everyday Solutions Business World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-edward-jones-flex-balance",
+    "title": "Edward Jones Everyday Solutions Flex Balance Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-edward-jones-triple-rewards",
+    "title": "Edward Jones Everyday Solutions Triple Rewards World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-prime-business-card",
+    "title": "Prime Business World Elite Mastercard",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-skypass-visa-classic",
+    "title": "SKYPASS Visa Classic Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-skypass-visa-secured",
+    "title": "SKYPASS Visa Secured Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-state-farm-business-cash-rewards",
+    "title": "State Farm Business Cash Rewards Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-us-bank-state-farm-premier-cash-rewards",
+    "title": "State Farm Premier Cash Rewards Visa Signature Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-cashback-rewards-plus-amex",
+    "title": "USAA Cashback Rewards Plus American Express",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-eagle-adapt-visa",
+    "title": "USAA Eagle Adapt Visa",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-eagle-ascend-amex",
+    "title": "USAA Eagle Ascend American Express",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-eagle-navigator-visa-signature",
+    "title": "USAA Eagle Navigator Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-preferred-cash-rewards-visa-signature",
+    "title": "USAA Preferred Cash Rewards Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-rate-advantage-visa-platinum",
+    "title": "USAA Rate Advantage Visa Platinum",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-rewards-visa-signature",
+    "title": "USAA Rewards Visa Signature",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-usaa-secured-amex",
+    "title": "USAA Secured American Express",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-wells-fargo-propel-world",
+    "title": "Wells Fargo Propel World Elite American Express® Card",
+    "reason": "No card artwork provided by the source database."
+  },
+  {
+    "id": "us-wescom-bruin-edge-visa",
+    "title": "Wescom Bruin Edge Visa Credit Card",
+    "reason": "No card artwork provided by the source database."
+  }
+]
