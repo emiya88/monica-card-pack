@@ -25,5 +25,20 @@
         "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/cardskin-full.json"
       }
     ]
+  },
+  "aircards": {
+    "source": "AirCards",
+    "entries": 2602,
+    "images": 2580,
+    "snapshot_at_utc": "2026-10-25T08:54:22.664289+00:00",
+    "packs": [
+      {
+        "file": "aircards-full.json",
+        "images": 2580,
+        "bytes": 636334,
+        "sha256": "68b6bfa66475df58db7a16d3fcf51a0446c819b6a88ce0191acec18a4a4ad023",
+        "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/aircards-full.json"
+      }
+    ]
   }
 }
