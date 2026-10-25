@@ -1,0 +1,29 @@
+{
+  "cardfacedb": {
+    "source": "CardFaceDB",
+    "entries": 620,
+    "images": 620,
+    "packs": [
+      {
+        "file": "cardfacedb-full.json",
+        "images": 620,
+        "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/cardfacedb-full.json"
+      }
+    ]
+  },
+  "cardskin": {
+    "source": "CardSkin",
+    "entries": 643,
+    "images": 643,
+    "snapshot_at_utc": "2026-10-25T08:38:46.190755+00:00",
+    "packs": [
+      {
+        "file": "cardskin-full.json",
+        "images": 643,
+        "bytes": 93329,
+        "sha256": "baa1a0d2a6bbff83704806b9d0e32cc5e9333e854c524b5d3a2636d35f754c36",
+        "subscription_url": "https://raw.githubusercontent.com/emiya88/monica-card-pack/main/cardskin-full.json"
+      }
+    ]
+  }
+}
